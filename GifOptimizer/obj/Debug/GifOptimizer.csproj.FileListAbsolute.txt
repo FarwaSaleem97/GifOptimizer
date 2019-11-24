@@ -1,0 +1,77 @@
+C:\Users\muham\source\repos\GifOptimizer\GifOptimizer\bin\Debug\GifOptimizer.exe.config
+C:\Users\muham\source\repos\GifOptimizer\GifOptimizer\bin\Debug\GifOptimizer.exe
+C:\Users\muham\source\repos\GifOptimizer\GifOptimizer\bin\Debug\GifOptimizer.pdb
+C:\Users\muham\source\repos\GifOptimizer\GifOptimizer\obj\Debug\GifOptimizer.csprojAssemblyReference.cache
+C:\Users\muham\source\repos\GifOptimizer\GifOptimizer\obj\Debug\GifOptimizer.Properties.Resources.resources
+C:\Users\muham\source\repos\GifOptimizer\GifOptimizer\obj\Debug\GifOptimizer.csproj.GenerateResource.cache
+C:\Users\muham\source\repos\GifOptimizer\GifOptimizer\obj\Debug\GifOptimizer.csproj.CoreCompileInputs.cache
+C:\Users\muham\source\repos\GifOptimizer\GifOptimizer\obj\Debug\GifOptimizer.exe
+C:\Users\muham\source\repos\GifOptimizer\GifOptimizer\obj\Debug\GifOptimizer.pdb
+C:\Users\muham\source\repos\GifOptimizer\GifOptimizer\obj\Debug\GifOptimizer.MainForm.resources
+D:\Study\7th semester\Visual Programming(C#)\GifOptimizer\GifOptimizer\GifOptimizer\bin\Debug\GifOptimizer.exe.config
+D:\Study\7th semester\Visual Programming(C#)\GifOptimizer\GifOptimizer\GifOptimizer\obj\Debug\GifOptimizer.exe
+D:\Study\7th semester\Visual Programming(C#)\GifOptimizer\GifOptimizer\GifOptimizer\obj\Debug\GifOptimizer.pdb
+D:\Study\7th semester\Visual Programming(C#)\GifOptimizer\GifOptimizer\GifOptimizer\bin\Debug\GifOptimizer.exe
+D:\Study\7th semester\Visual Programming(C#)\GifOptimizer\GifOptimizer\GifOptimizer\bin\Debug\GifOptimizer.pdb
+D:\Study\7th semester\Visual Programming(C#)\GifOptimizer\GifOptimizer\GifOptimizer\bin\Debug\mscorlib.dll
+D:\Study\7th semester\Visual Programming(C#)\GifOptimizer\GifOptimizer\GifOptimizer\bin\Debug\System.Net.Http.dll
+D:\Study\7th semester\Visual Programming(C#)\GifOptimizer\GifOptimizer\GifOptimizer\bin\Debug\System.Net.Http.xml
+D:\Study\7th semester\Visual Programming(C#)\GifOptimizer\GifOptimizer\GifOptimizer\bin\Debug\normidna.nlp
+D:\Study\7th semester\Visual Programming(C#)\GifOptimizer\GifOptimizer\GifOptimizer\bin\Debug\normnfc.nlp
+D:\Study\7th semester\Visual Programming(C#)\GifOptimizer\GifOptimizer\GifOptimizer\bin\Debug\normnfd.nlp
+D:\Study\7th semester\Visual Programming(C#)\GifOptimizer\GifOptimizer\GifOptimizer\bin\Debug\normnfkc.nlp
+D:\Study\7th semester\Visual Programming(C#)\GifOptimizer\GifOptimizer\GifOptimizer\bin\Debug\normnfkd.nlp
+D:\Study\7th semester\Visual Programming(C#)\GifOptimizer\GifOptimizer\GifOptimizer\obj\Debug\GifOptimizer.MainForm.resources
+D:\Study\7th semester\Visual Programming(C#)\GifOptimizer\GifOptimizer\GifOptimizer\obj\Debug\GifOptimizer.Properties.Resources.resources
+D:\Study\7th semester\Visual Programming(C#)\GifOptimizer\GifOptimizer\GifOptimizer\obj\Debug\GifOptimizer.csproj.GenerateResource.Cache
+E:\Study\7th semester\Visual Programming(C#)\GifOptimizer\GifOptimizer\GifOptimizer\bin\Debug\GifOptimizer.exe.config
+E:\Study\7th semester\Visual Programming(C#)\GifOptimizer\GifOptimizer\GifOptimizer\obj\Debug\GifOptimizer.exe
+E:\Study\7th semester\Visual Programming(C#)\GifOptimizer\GifOptimizer\GifOptimizer\obj\Debug\GifOptimizer.pdb
+E:\Study\7th semester\Visual Programming(C#)\GifOptimizer\GifOptimizer\GifOptimizer\bin\Debug\GifOptimizer.exe
+E:\Study\7th semester\Visual Programming(C#)\GifOptimizer\GifOptimizer\GifOptimizer\bin\Debug\GifOptimizer.pdb
+E:\Study\7th semester\Visual Programming(C#)\GifOptimizer\GifOptimizer\GifOptimizer\bin\Debug\mscorlib.dll
+E:\Study\7th semester\Visual Programming(C#)\GifOptimizer\GifOptimizer\GifOptimizer\bin\Debug\System.Net.Http.dll
+E:\Study\7th semester\Visual Programming(C#)\GifOptimizer\GifOptimizer\GifOptimizer\bin\Debug\System.Net.Http.xml
+E:\Study\7th semester\Visual Programming(C#)\GifOptimizer\GifOptimizer\GifOptimizer\bin\Debug\normidna.nlp
+E:\Study\7th semester\Visual Programming(C#)\GifOptimizer\GifOptimizer\GifOptimizer\bin\Debug\normnfc.nlp
+E:\Study\7th semester\Visual Programming(C#)\GifOptimizer\GifOptimizer\GifOptimizer\bin\Debug\normnfd.nlp
+E:\Study\7th semester\Visual Programming(C#)\GifOptimizer\GifOptimizer\GifOptimizer\bin\Debug\normnfkc.nlp
+E:\Study\7th semester\Visual Programming(C#)\GifOptimizer\GifOptimizer\GifOptimizer\bin\Debug\normnfkd.nlp
+E:\Study\7th semester\Visual Programming(C#)\GifOptimizer\GifOptimizer\GifOptimizer\obj\Debug\GifOptimizer.csprojResolveAssemblyReference.cache
+E:\Study\7th semester\Visual Programming(C#)\GifOptimizer\GifOptimizer\GifOptimizer\obj\Debug\GifOptimizer.MainForm.resources
+E:\Study\7th semester\Visual Programming(C#)\GifOptimizer\GifOptimizer\GifOptimizer\obj\Debug\GifOptimizer.Properties.Resources.resources
+E:\Study\7th semester\Visual Programming(C#)\GifOptimizer\GifOptimizer\GifOptimizer\obj\Debug\GifOptimizer.csproj.GenerateResource.Cache
+E:\Study\7th semester\Visual Programming(C#)\Gif Optimization Project\GifOptimizer\GifOptimizer\GifOptimizer\bin\Debug\GifOptimizer.exe.config
+E:\Study\7th semester\Visual Programming(C#)\Gif Optimization Project\GifOptimizer\GifOptimizer\GifOptimizer\obj\Debug\GifOptimizer.exe
+E:\Study\7th semester\Visual Programming(C#)\Gif Optimization Project\GifOptimizer\GifOptimizer\GifOptimizer\obj\Debug\GifOptimizer.pdb
+E:\Study\7th semester\Visual Programming(C#)\Gif Optimization Project\GifOptimizer\GifOptimizer\GifOptimizer\bin\Debug\GifOptimizer.exe
+E:\Study\7th semester\Visual Programming(C#)\Gif Optimization Project\GifOptimizer\GifOptimizer\GifOptimizer\bin\Debug\GifOptimizer.pdb
+E:\Study\7th semester\Visual Programming(C#)\Gif Optimization Project\GifOptimizer\GifOptimizer\GifOptimizer\bin\Debug\mscorlib.dll
+E:\Study\7th semester\Visual Programming(C#)\Gif Optimization Project\GifOptimizer\GifOptimizer\GifOptimizer\bin\Debug\System.Net.Http.dll
+E:\Study\7th semester\Visual Programming(C#)\Gif Optimization Project\GifOptimizer\GifOptimizer\GifOptimizer\bin\Debug\System.Net.Http.xml
+E:\Study\7th semester\Visual Programming(C#)\Gif Optimization Project\GifOptimizer\GifOptimizer\GifOptimizer\bin\Debug\normidna.nlp
+E:\Study\7th semester\Visual Programming(C#)\Gif Optimization Project\GifOptimizer\GifOptimizer\GifOptimizer\bin\Debug\normnfc.nlp
+E:\Study\7th semester\Visual Programming(C#)\Gif Optimization Project\GifOptimizer\GifOptimizer\GifOptimizer\bin\Debug\normnfd.nlp
+E:\Study\7th semester\Visual Programming(C#)\Gif Optimization Project\GifOptimizer\GifOptimizer\GifOptimizer\bin\Debug\normnfkc.nlp
+E:\Study\7th semester\Visual Programming(C#)\Gif Optimization Project\GifOptimizer\GifOptimizer\GifOptimizer\bin\Debug\normnfkd.nlp
+E:\Study\7th semester\Visual Programming(C#)\Gif Optimization Project\GifOptimizer\GifOptimizer\GifOptimizer\obj\Debug\GifOptimizer.csprojResolveAssemblyReference.cache
+E:\Study\7th semester\Visual Programming(C#)\Gif Optimization Project\GifOptimizer\GifOptimizer\GifOptimizer\obj\Debug\GifOptimizer.MainForm.resources
+E:\Study\7th semester\Visual Programming(C#)\Gif Optimization Project\GifOptimizer\GifOptimizer\GifOptimizer\obj\Debug\GifOptimizer.Properties.Resources.resources
+E:\Study\7th semester\Visual Programming(C#)\Gif Optimization Project\GifOptimizer\GifOptimizer\GifOptimizer\obj\Debug\GifOptimizer.csproj.GenerateResource.Cache
+E:\Study\7th semester\Visual Programming(C#)\Gif Optimization Project\Gif Optimizer\Farwa,Hamza,Aamir,Arslan\GifOptimizer\GifOptimizer\bin\Debug\GifOptimizer.exe.config
+E:\Study\7th semester\Visual Programming(C#)\Gif Optimization Project\Gif Optimizer\Farwa,Hamza,Aamir,Arslan\GifOptimizer\GifOptimizer\obj\Debug\GifOptimizer.exe
+E:\Study\7th semester\Visual Programming(C#)\Gif Optimization Project\Gif Optimizer\Farwa,Hamza,Aamir,Arslan\GifOptimizer\GifOptimizer\obj\Debug\GifOptimizer.pdb
+E:\Study\7th semester\Visual Programming(C#)\Gif Optimization Project\Gif Optimizer\Farwa,Hamza,Aamir,Arslan\GifOptimizer\GifOptimizer\bin\Debug\GifOptimizer.exe
+E:\Study\7th semester\Visual Programming(C#)\Gif Optimization Project\Gif Optimizer\Farwa,Hamza,Aamir,Arslan\GifOptimizer\GifOptimizer\bin\Debug\GifOptimizer.pdb
+E:\Study\7th semester\Visual Programming(C#)\Gif Optimization Project\Gif Optimizer\Farwa,Hamza,Aamir,Arslan\GifOptimizer\GifOptimizer\bin\Debug\mscorlib.dll
+E:\Study\7th semester\Visual Programming(C#)\Gif Optimization Project\Gif Optimizer\Farwa,Hamza,Aamir,Arslan\GifOptimizer\GifOptimizer\bin\Debug\System.Net.Http.dll
+E:\Study\7th semester\Visual Programming(C#)\Gif Optimization Project\Gif Optimizer\Farwa,Hamza,Aamir,Arslan\GifOptimizer\GifOptimizer\bin\Debug\System.Net.Http.xml
+E:\Study\7th semester\Visual Programming(C#)\Gif Optimization Project\Gif Optimizer\Farwa,Hamza,Aamir,Arslan\GifOptimizer\GifOptimizer\bin\Debug\normidna.nlp
+E:\Study\7th semester\Visual Programming(C#)\Gif Optimization Project\Gif Optimizer\Farwa,Hamza,Aamir,Arslan\GifOptimizer\GifOptimizer\bin\Debug\normnfc.nlp
+E:\Study\7th semester\Visual Programming(C#)\Gif Optimization Project\Gif Optimizer\Farwa,Hamza,Aamir,Arslan\GifOptimizer\GifOptimizer\bin\Debug\normnfd.nlp
+E:\Study\7th semester\Visual Programming(C#)\Gif Optimization Project\Gif Optimizer\Farwa,Hamza,Aamir,Arslan\GifOptimizer\GifOptimizer\bin\Debug\normnfkc.nlp
+E:\Study\7th semester\Visual Programming(C#)\Gif Optimization Project\Gif Optimizer\Farwa,Hamza,Aamir,Arslan\GifOptimizer\GifOptimizer\bin\Debug\normnfkd.nlp
+E:\Study\7th semester\Visual Programming(C#)\Gif Optimization Project\Gif Optimizer\Farwa,Hamza,Aamir,Arslan\GifOptimizer\GifOptimizer\obj\Debug\GifOptimizer.csprojResolveAssemblyReference.cache
+E:\Study\7th semester\Visual Programming(C#)\Gif Optimization Project\Gif Optimizer\Farwa,Hamza,Aamir,Arslan\GifOptimizer\GifOptimizer\obj\Debug\GifOptimizer.MainForm.resources
+E:\Study\7th semester\Visual Programming(C#)\Gif Optimization Project\Gif Optimizer\Farwa,Hamza,Aamir,Arslan\GifOptimizer\GifOptimizer\obj\Debug\GifOptimizer.Properties.Resources.resources
+E:\Study\7th semester\Visual Programming(C#)\Gif Optimization Project\Gif Optimizer\Farwa,Hamza,Aamir,Arslan\GifOptimizer\GifOptimizer\obj\Debug\GifOptimizer.csproj.GenerateResource.Cache
